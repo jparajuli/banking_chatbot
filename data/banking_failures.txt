@@ -1,0 +1,56 @@
+Conditions of Failure: Digital Banking
+1	My beneficiary's account is not yet credited with the amount I have transferred
+Please use 'raise a query' option available in support section in the app using your transaction reference number. You could also track your query from time to time. 
+You can now browse our 'Discover our features' videos available in support section of our app for a demo of various features available in our app.
+
+2	From the list of beneficiaries, I am not able to see the name of beneficiary I have added earlier
+Please use 'raise a query' option available in support section in the app. You could also track your query from time to time. You can now browse our 'Discover our features' videos available in support section of our app for a demo of various features available in our app.
+3	I tried looking for the IFSC code of HDFC, Lower parel branch. It is not appearing in the search result.
+You can do a smart search for the IFSC code using name of the bank/branch/area/pincode. We strive to keep our records updated, and is subject to the data available from the respective banks. Please refer to the website of the beneficiary bank in case of any difficulty in identifying the IFSC code.
+
+You can now browse our 'Discover our features' videos available in support section of our app for a demo of various features available in our app.
+
+4	I have transferred an amount of Rs.XXX to a beneficiary. However, the same has been rejected and credited back to my account. What could be the reason?
+The reason for reversal of funds into your account could be incorrect beneficiary details entered. kindly check and confirm the beneficiary details before re-initiating the transaction.You can now browse our 'Discover our features' videos available in support section of our app for a demo of various features available in our app.
+5	What if I don’t have a virtual payment address. App is not allowing me to transfer funds using UPI since I don’t have a VPA
+If you choose to transfer funds using VPA, you need to have a VPA of your own. Virtual payment address(VPA) is an ID, which a user creates by linking his/her accounts to a bank's mobile application. You can create your VPA ID by using Android app 'Open Finance Pay', available in Google playstore. 
+
+You can now browse our 'Discover our features' videos available in support section of our app for a demo of various features available in our app.
+6	If a transaction is not credited to the beneficiary account, does the remitter get back the money?
+Yes. If the beneficiary's bank is unable to credit the beneficiary's account for any reason, the former will return the money to the remitting bank within 2 hours. Once the amount is received by the remitting bank, it is credited to the remitter's account by the branch concerned.
+7	What should be done if customer does not find old transaction on the screen?
+Please use smart search option for old transaction using date /amount/tag etc. 
+8	What should be done if customer does not find transaction older than 3 years?
+Please contact branch and put request for older transaction Or your request will be taken by us  and will be forwarded to our specialized team/Branch for resolution 
+9	Customer says money got dispensed but account not updated. Where should the request be put in raise query?
+Please select "others" option and write details in space provided and submit 
+10	Customer do not understand the narration in transaction like Bulk posting/Correction posting/other banking jargons
+Please select the transaction by clicking on it and popup will appear for selecting the option.
+If related transaction not found then can select "others" option and write details in space provided and submit 
+
+11	Customer raised the query but don’t know what happened next
+Dear Customer, please select Track Query option to get the status update and reply to your query
+12	Customer raised the query but don't Track ID 
+Dear Customer, you can smart search by using your details for tracking the  query
+
+13	What to do if there is discrepancy in last login information?
+User may raise a query using the hamburger menu > Support and the support team will take necessary action to clarify user on last login details
+14	My Occupation is not given in the list. What should I do?
+Select Others and then write details
+15	 I am not able to upload my image.
+To be discussed with technical team
+
+16	The changes I have made in my profile are not being saved
+User will be asked about the fields that have been modified and a query is raised to address this issue
+
+17	I am unable to view the modified/changed information in my profile
+User will be asked about the fields that have been modified and a query is raised to address this issue
+18	The changes I have made in my profile are not being saved
+User will be asked about the fields that have been modified and a query is raised to address this issue
+
+19	The account for which I want to create a VPA is not in the list.
+The customer must raise a query/service request to map this account under an existing CIF. Once mapping is done user will be able to view the account number to create VPA
+
+20	My VPA is not appearing in the list
+The user might have accidentally deleted the VPA mapped to an transaction account. The contact center agent has to cross verify in the system about the history of that particular VPA about its creation, modification/deletion
+
